@@ -12,7 +12,7 @@ int main()
   {
     p=1;
     fact=1;
-    for(j=1; j<=1; j++)
+    for(j=1; j<=i; j++)
     {
       p = p*x;
       fact = fact*j;
