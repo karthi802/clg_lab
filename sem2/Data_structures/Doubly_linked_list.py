@@ -1,12 +1,12 @@
 class node:
-    def init(self, data):
+    def __init__(self, data):
         self.data = data
         self.next = None
         self.prev = None
 
 
 class doublelinkedlist:
-    def init(self):
+    def __init__(self):
         self.head = None
 
     def push(self, data):
