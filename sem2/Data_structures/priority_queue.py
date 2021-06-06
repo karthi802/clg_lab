@@ -1,9 +1,9 @@
 class PriorityQueue(object):
 
-    def init(self):
+    def __init__(self):
         self.queue = []
 
-    def str(self):
+    def __str__(self):
         return ' '.join([str(i) for i in self.queue])
 
     def isEmpty(self):
