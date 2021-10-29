@@ -15,14 +15,17 @@ public class palindrome {
         // get the string from the user
         String s = sc.nextLine();
 
+        // this is used to point to the first character in the string
         int i = 0;
+
+        // this is used to point to the last character in the string
         int j = s.length() - 1;
 
         String temp = s;
         Boolean palindrome = true;
 
         // check if the 1st character and the last character are same and move to the
-        // next set of characters
+        // next set of characters ie 2nd and 2nd last character
         while (i < j) {
             if (temp.charAt(i) != temp.charAt(j)) {
 
