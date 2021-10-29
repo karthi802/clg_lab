@@ -4,3 +4,4 @@
 3. ![Java program to implement Bubble sort](./bubblesort.java)
 4. ![Java Program to find whether the given number is prime or not using default constructor](./Primenumber.java)
 5. ![Java program to find GCD of two nos using parametrized constructor](./Gcd.java)
+6. ![Java program to find Given no is perfect square or not using copy constructor](./Perfectsquare.java)
