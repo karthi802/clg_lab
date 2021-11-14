@@ -6,7 +6,7 @@
     to declare the shared method as synchronized. This method is used to lock any shared
     resources, so that When a thread invokes a synchronized method, it automatically acquires 
     the lock for that object and releases it when the thread completes its task, so that the 
-    next thread can access the shared resource.
+    next thread can access the shared resource only after the first thread has finished.
 */
 
 
