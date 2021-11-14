@@ -27,3 +27,4 @@
 ### Programs to demonstrate threading
 16. [Java program to implement the concept of Threading by implementing Runnable Interface](./Runnableinterface.java)
 17. [Java program to implement the concept of Threading by extending Thread Class](./Threading.java)
+18. [Java program for Thread Synchronization](./Threadsync.java)
